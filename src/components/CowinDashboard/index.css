@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: black;
+  padding: 20px 50px;
+}
+
+.logo-heading {
+  color: #2cc6c6;
+  font-family: 'Roboto';
+  font-family: bold;
+  margin-left: 15px;
+  font-size: 25px;
+}
+
+.logo-css {
+  width: 40px;
+}
+
+.logo-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.logo-desc {
+  color: white;
+  font-family: 'Roboto';
+  font-size: 22px;
+}
